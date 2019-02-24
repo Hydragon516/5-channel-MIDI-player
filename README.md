@@ -1,7 +1,7 @@
 # About
 English : https://www.hackster.io/hydragon516/arduino-5-channel-midi-player-fdf335
 <br />Korean : https://diy-project.tistory.com/121
-<br />yotube link : https://www.youtube.com/watch?time_continue=88&v=s_1wkB1FFWI
+<br />youtube link : https://www.youtube.com/watch?time_continue=88&v=s_1wkB1FFWI
 
 # Software requirements
 ### MIDI-OX
